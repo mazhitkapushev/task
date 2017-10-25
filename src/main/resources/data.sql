@@ -1,0 +1,3 @@
+INSERT INTO SCHOOL   VALUES (1, 'Mike Vozovsky');
+INSERT INTO SCHOOL   VALUES (2, 'Vasya Pupkin');
+INSERT INTO SCHOOL   VALUES (3, 'Aisha Sadyk');
